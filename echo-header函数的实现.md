@@ -1,4 +1,4 @@
-#php中 echo 函数的实现。
+#php中 echo-header 函数的实现。
 问题的引出：
                            
                            在微信支付中有一个header的函数，它要求的是不能在header函数的前面有任何的echo的东西。
